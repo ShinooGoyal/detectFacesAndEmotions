@@ -1,0 +1,17 @@
+{
+  "name": "Detect faces",
+  "description": "Detect faces and emotions in images",
+  "version": "1.0.0",
+  "dependencies": {
+    "@google-cloud/promisify": "^2.0.0",
+    "@google-cloud/vision": "^2.4.2",
+    "canvas": "^2.9.0",
+    "gm": "^1.23.1",
+    "pureimage": "^0.3.8",
+    "yargs": "^17.3.1"
+  },
+  "devDependencies": {
+    "@fontsource/open-sans": "^4.5.5",
+    "@google-cloud/storage": "^5.0.0"
+  }
+}
